@@ -25,9 +25,7 @@ Here we go! There's some motion. Image processing works very well, camera detect
 
 ## Video of project
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=PIh0jmxP5Uo
-" target="_blank"><img src="http://img.youtube.com/vi/PIh0jmxP5Uo/0.jpg" 
-alt="Video of project" width="240" height="180" border="10" /></a>
+[![Video_of_project](https://img.youtube.com/vi/PIh0jmxP5Uo/0.jpg)](https://www.youtube.com/watch?v=PIh0jmxP5Uo)
 
 
 On this video, Camera computes the absolute difference between the current frame and first frame and gives feedback. If room is not clean, camera will take a picture every single second and will save in the memory!
