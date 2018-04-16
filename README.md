@@ -22,7 +22,7 @@ As seen in the photo above, this photo is the image of the argument video's. (Ac
 
 ![2](https://user-images.githubusercontent.com/28205392/38817024-20a71db8-41a0-11e8-80c6-c23733afb195.png)
 
-Here we go! There's some motion. Image processing works very well, camera detects and gives feedback. (Actually Room status : "There's someone!")
+Here we go! There's some motion. Image processing works very well. Camera detects, gives feedback and takes picture. (Actually Room status : "There's motion!")
 
 ## Video of project
 
