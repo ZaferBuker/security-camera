@@ -1,7 +1,7 @@
 ## About Project
 
-This project provides a safe place. If the camera sees a difference on frames, the alarm and the led will work.
-At the same time the camera takes a photo every second.
+Webcam, Led, Buzzer, Raspberry Pi 2 were used in this project. This project provides a safe place. If the camera sees a difference on frames, the alarm and the led will work.
+At the same time the camera takes a photo every second. 
 
 ## Circuitry
 
@@ -17,7 +17,7 @@ All you need is some knowledge about OpenCV and image processing.
 
 ![1](https://user-images.githubusercontent.com/28205392/38816837-a9de35fe-419f-11e8-955f-06a9d81fb799.png)
 
-As seen in the photo above, this photo is the image of the argument. (Actually Room status : "Clean")
+As seen in the photo above, this photo is the image of the argument video's. (Actually Room status : "Clean", my main language is Turkish, i used Turkish while doing this project, you can change this on code.)
 
 ![2](https://user-images.githubusercontent.com/28205392/38817024-20a71db8-41a0-11e8-80c6-c23733afb195.png)
 
